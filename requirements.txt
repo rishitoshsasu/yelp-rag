@@ -1,0 +1,9 @@
+streamlit
+requests
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
+pydantic
+sentence-transformers
+torch
